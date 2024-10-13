@@ -1,0 +1,13 @@
+@tailwlind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        background-color:azure;
+    }
+}
+
+.hello{
+    background-color: black;
+}
